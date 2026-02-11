@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "97f7",
+      "title": "Voluptatem Soluta q",
+      "type": "Part-Time",
+      "location": "Dolore suscipit arch",
+      "description": "Et provident et acc",
+      "salary": "$90K - 100K",
+      "company": {
+        "name": "Allison Shaw Traders",
+        "description": "Est maiores invento",
+        "contactEmail": "zumiliby@mailinator.com",
+        "contactPhone": "+1 (912) 899-2282"
+      }
     }
   ]
 }

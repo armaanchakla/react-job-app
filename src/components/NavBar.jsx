@@ -37,7 +37,7 @@ const NavBar = () => {
                   Jobs
                 </NavLink>
                 <NavLink
-                  to="/jobs/add"
+                  to="/add-job"
                   className={({ isActive }) =>
                     `${isActive ? 'bg-black' : ''} text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2`
                   }
